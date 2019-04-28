@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game of Life</string>
+
+    <string name="settings_evolve_time_hint">Evolve Time in ms</string>
+    <string name="settings_cell_size_hint">Size of a Cell</string>
+    <string name="settings_random_activation_count">Living Cells at start</string>
+    <string name="settings_rules_to_survive_hint">Rules to survive</string>
+    <string name="settings_rules_to_be_reborn_hint">Rules to be reborn</string>
+</resources>

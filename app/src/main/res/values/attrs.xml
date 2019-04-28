@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GameOfLifeView">
+        <attr name="cell_size" format="integer"/>
+        <attr name="random_activation_count" format="integer"/>
+        <attr name="evolve_time" format="integer"/>
+    </declare-styleable>
+</resources>
